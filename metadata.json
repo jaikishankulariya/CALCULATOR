@@ -1,0 +1,6 @@
+{
+  "name": "Jay Kulariya Scientific Calculator",
+  "description": "High-precision scientific calculator with advanced mathematical functions, dark mode interface, and comprehensive calculation history by Jay Kulariya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
